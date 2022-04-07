@@ -1,0 +1,8 @@
+Versions:
+
+v0.0.1
+- Removed the forcedownload URL param from assignment tab, so that files open in browsers, without the need to download them.
+
+
+External:
+- Office Editing for Docs, Sheets & Slides (Google Inc.) - https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=en
